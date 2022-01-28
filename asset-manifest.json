@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/solutions-SEO/static/css/main.38085079.css",
+    "main.js": "/solutions-SEO/static/js/main.ae16dd5b.js",
+    "static/js/787.86307769.chunk.js": "/solutions-SEO/static/js/787.86307769.chunk.js",
+    "index.html": "/solutions-SEO/index.html",
+    "main.38085079.css.map": "/solutions-SEO/static/css/main.38085079.css.map",
+    "main.ae16dd5b.js.map": "/solutions-SEO/static/js/main.ae16dd5b.js.map",
+    "787.86307769.chunk.js.map": "/solutions-SEO/static/js/787.86307769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38085079.css",
+    "static/js/main.ae16dd5b.js"
+  ]
+}
